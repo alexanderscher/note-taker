@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "title": "note 1",
+        "text": "text\n",
+        "id": "c711"
+    },
+    {
+        "title": "note 2",
+        "text": "note 2",
+        "id": "10f4"
+    }
+]
